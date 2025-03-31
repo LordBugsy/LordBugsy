@@ -8,7 +8,8 @@ Hello! I'm **LordBugsy**! A 20 years old french web programmer and designer!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBugsy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/lordbugsy) 
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lordbugsy) 
+  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
