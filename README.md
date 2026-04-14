@@ -1,4 +1,4 @@
-Hello! I'm **LordBugsy**! A 21 year-old french full-stack developer, designer and ROBLOX game developer!
+Hello! I'm **LordBugsy**! A 22 yo french full-stack developer, designer and ROBLOX game developer!
 <!-- ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%0070ff) -->
 
 # 💻 Tech Stack:
