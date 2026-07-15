@@ -14,7 +14,7 @@ Hello! I'm **LordBugsy**! A 22 yo french full-stack developer, designer and ROBL
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LordBugsy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBugsy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can support me by donating on kofi :)
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lordbugsy) 
   
 
