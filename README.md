@@ -13,13 +13,9 @@ Hello! I'm **LordBugsy**! A 22 yo french full-stack developer, designer and ROBL
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 # 📊 GitHub Stats:
-![lordbugsy's Stats](https://github-readme-stats.vercel.app/api?username=lordbugsy&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LordBugsy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LordBugsy&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![lordbugsy's Stats](https://github-readme-stats.vercel.app/api?username=lordbugsy&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
+![lordbugsy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lordbugsy&theme=tokyonight&hide_border=false)<br/>
+![lordbugsy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lordbugsy&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-  ## 💰 You can support me by donating on kofi :)
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lordbugsy) 
-  
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💰 You can support me by donating on kofi :)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/lordbugsy) 
